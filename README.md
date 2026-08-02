@@ -1,10 +1,10 @@
 # Project Title
 
-Simple overview of use/purpose.
+Eric Velt - Cloud Architect Portfolio
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+The following are series of projects and learning experiences that showcase my skill set as a Cloud Architect.
 
 ## Getting Started
 
