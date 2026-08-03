@@ -27,4 +27,4 @@ User setup is done in two parts in concert with the IT Department:
 code blocks for commands
 Found on the page labeled "Code Examples(JSON)
 
-![Diagram](portfolio/assets/AWS Identity Center Diagram.jpg)
+![Diagram](portfolio/assets/AWS Identity Center Diagram.png)
