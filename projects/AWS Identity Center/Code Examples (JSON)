@@ -1,1 +1,23 @@
-
+<h1>Developers policy</h2>
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "VisualEditor0",
+            "Effect": "Allow",
+            "Action": [
+                "sns:Publish",
+                "lambda:InvokeFunction",
+                "lambda:GetFunctionConfiguration",
+                "codeconnections:UseConnection",
+                "glacier:listProvisionedCapacity",
+                "s3:RestoreObject",
+                "s3:Put*",
+                "s3:Get*",
+                "s3:Describe*",
+                "s3-object-lambda:Get*"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
