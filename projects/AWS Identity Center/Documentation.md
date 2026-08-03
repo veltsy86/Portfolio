@@ -1,3 +1,4 @@
+<img width="1712" height="1090" alt="AWS Identity Center Diagram" src="https://github.com/user-attachments/assets/8602a99c-cdd3-4f4e-b3e1-635b6c578de7" />
 # Project Title
 
 AWS Identity Center Implementation
@@ -28,3 +29,4 @@ code blocks for commands
 Found on the page labeled "Code Examples(JSON)
 
 ![Diagram](portfolio/assets/AWS Identity Center Diagram.png)
+<img width="1712" height="1090" alt="AWS Identity Center Diagram" src="https://github.com/user-attachments/assets/aca5fa82-d08b-49c8-8c65-2342920cc95d" />
