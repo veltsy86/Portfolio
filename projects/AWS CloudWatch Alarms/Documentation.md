@@ -43,7 +43,7 @@ Each alarm follows the required conventions:
 Name: {env}-{instanceId}-{instanceName}-metric-threshold
 
 
-View Lambda code - 
+View Lambda code - [CloudWatch Alarm](Lambda Code.mjs)
 
 <img width="2440" height="558" alt="CW Auto Alarm Creation" src="https://github.com/user-attachments/assets/f74eeb3c-50af-450e-8136-3d32c31e1a83" />
 
