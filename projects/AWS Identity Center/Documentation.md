@@ -1,4 +1,3 @@
-<img width="1712" height="1090" alt="AWS Identity Center Diagram" src="https://github.com/user-attachments/assets/8602a99c-cdd3-4f4e-b3e1-635b6c578de7" />
 # Project Title
 
 AWS Identity Center Implementation
