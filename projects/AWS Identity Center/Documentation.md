@@ -23,16 +23,7 @@ User setup is done in two parts in concert with the IT Department:
 
 * IAM was already in place but an SSO was required due to NIST compliance.
 
-### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
 code blocks for commands
 Found on the page labeled "Code Examples(JSON)
 
